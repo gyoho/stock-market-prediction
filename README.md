@@ -5,14 +5,14 @@
 
 
 ###### List of Models
-    * Polynomial
-    * Seasonal
-    * Holt-Winter Filter
-    * Exponential Smoothing
-    * ARIMA
-    * ARIMA Seasonal
-    * Neural Networks
-    * Advanced Linear Model
+* Polynomial
+* Seasonal
+* Holt-Winter Filter
+* Exponential Smoothing
+* ARIMA
+* ARIMA Seasonal
+* Neural Networks
+* Advanced Linear Model
 
 ![Euclid](https://github.com/gyoho/stock-market-prediction/blob/master/document/Euclid.png?raw=true)
 
