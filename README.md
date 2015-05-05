@@ -63,5 +63,5 @@
 7. Enjoy!
 
 ## Reference
-[We think therefore we R](http://programming-r-pro-bro.blogspot.in/search/label/auto%20correlation%20function)
-[daumann/r-stockPrediction](https://github.com/daumann/r-stockPrediction)
+* [We think therefore we R](http://programming-r-pro-bro.blogspot.in/search/label/auto%20correlation%20function)
+* [daumann/r-stockPrediction](https://github.com/daumann/r-stockPrediction)
