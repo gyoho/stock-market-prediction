@@ -16,7 +16,6 @@ CS286 Class Project
 ## Usage
 1. Clone Repo
     ```
-
     $ git clone git@github.com:gyoho/stock-market-prediction.git
     ```
 2. Change into Source Euclid Directory
@@ -38,7 +37,7 @@ CS286 Class Project
     ```
 
     Copy and paste findBestPrediction.R into RStudio console
-    
+
     Copy and paste findCorrelationDay.R into RStudio console
     ```
 6. Invoke the Main Function
