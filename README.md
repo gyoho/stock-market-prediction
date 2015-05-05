@@ -1,8 +1,9 @@
 # stock-market-prediction
-CS286 Class Project
+### CS286 Class Project
 - Stock market predictions in R
 - Developed a program to evaluate the best model for an input data
 ![Euclid](https://github.com/gyoho/stock-market-prediction/blob/master/document/Euclid.png?raw=true)
+
 ## Install
 1. Install [R](http://www.r-project.org/)
 2. Install [SparkR](https://amplab-extras.github.io/SparkR-pkg/) if desired
