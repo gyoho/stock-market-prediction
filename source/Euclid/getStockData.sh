@@ -2,6 +2,7 @@
 
 # create directory if not exist
 mkdir -p data
+cd data
 
 # download the historical prices for past 5 years
 # 4/30/2010 - 4/30/2015

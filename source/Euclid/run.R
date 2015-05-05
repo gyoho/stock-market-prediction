@@ -17,8 +17,3 @@ for(i in 1:length(stockVector)) {
 	findBestPrediction(stockVector[[i]])
 	cat("--------------------------------\n\n")
 }
-
-
-plot( tsStocktrend1, type="l", col="red" )
-par(new=TRUE)
-plot( tsStock, type="l", col="blue" )
