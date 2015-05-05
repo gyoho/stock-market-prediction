@@ -1,8 +1,11 @@
 #!/bin/bash
+
+# create directory if not exist
+mkdir -p data
+
 # download the historical prices for past 5 years
 # 4/30/2010 - 4/30/2015
 # URL pattern: s=symbol, leave the period as it is
-
 if [ "$#" -eq 0 ]
 then
   echo no argument
