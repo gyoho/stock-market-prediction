@@ -2,7 +2,7 @@
 library(tseries, quietly = T)
 library(forecast, quietly = T)
 
-aapl <- read.csv("~/Class/Hadoop/Project/data/aapl.csv")
+aapl <- read.csv("~/aapl.csv")
 
 stock <- aapl
 

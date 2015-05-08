@@ -55,12 +55,19 @@
     Copy and paste findBestPrediction.R into RStudio console
     Copy and paste findCorrelationDay.R into RStudio console
     ```
-6. Invoke the Main Function
+6. Fix the Import Folder Path in Following Functions According to Your Local Path
+	
+	```
+	compare_model.R
+	example_apple.R
+	run.R
+	```
+7. Invoke the Main Function
 
     ```
     Copy and paste run.R into RStudio console
     ```
-7. Enjoy!
+8. Enjoy!
 
 ## Reference
 * [We think therefore we R](http://programming-r-pro-bro.blogspot.in/search/label/auto%20correlation%20function)

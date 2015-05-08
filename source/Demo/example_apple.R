@@ -5,7 +5,7 @@ library(ggplot2, quietly = T)
 
 
 # import stock price data
-appl <- read.csv("~/Class/Hadoop/Project/data/aapl.csv")
+appl <- read.csv("~/aapl.csv")
 
 # plot the past one year's adjusted closing price
 plot(as.Date(appl$Date, "%Y-%m-%d"), appl$Adj.Close, xlab= "Dates", ylab= "Adjusted closing price", type='l', col='red', main="Adjusted closing price of Apple")
