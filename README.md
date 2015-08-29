@@ -1,4 +1,7 @@
 # stock-market-prediction
+
+*This is toy project intended to learn various linear regression models*
+
 ### CS286 Class Project
 - Stock market predictions in R
 - Developed a program to evaluate the best model to line fit for an stock price
