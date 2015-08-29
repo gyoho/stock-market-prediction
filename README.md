@@ -1,7 +1,7 @@
 # stock-market-prediction
 ### CS286 Class Project
 - Stock market predictions in R
-- Developed a program to evaluate the best model for an input data
+- Developed a program to evaluate the best model to line fit for an stock price
 
 
 ###### List of Models
