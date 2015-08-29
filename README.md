@@ -1,6 +1,6 @@
 # stock-market-prediction
 
-*This is toy project intended to learn various linear regression models*
+*This a is toy project intended to learn various linear regression models*
 
 ### CS286 Class Project
 - Stock market predictions in R
